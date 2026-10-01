@@ -1,9 +1,8 @@
 # Flowbase — Scroll-Animated SaaS Landing Page
 
 A production-quality, single-page marketing site for **Flowbase**, a fictional
-workflow-automation SaaS product. Built as a Week 2 internship project to
-demonstrate React component architecture, Tailwind CSS, and Framer Motion
-scroll animation.
+workflow-automation SaaS product. Built to demonstrate React component
+architecture, Tailwind CSS, and Framer Motion scroll animation.
 
 ## Features
 
@@ -33,7 +32,7 @@ scroll animation.
 
 ## Project Structure
 
-```
+\`\`\`
 src/
 ├── components/
 │   ├── common/
@@ -63,23 +62,23 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
-```
+\`\`\`
 
 ## Getting Started
 
-```bash
+\`\`\`bash
 npm install
 npm run dev
-```
+\`\`\`
 
 Open the printed local URL (usually `http://localhost:5173`).
 
 ### Build for production
 
-```bash
+\`\`\`bash
 npm run build
 npm run preview
-```
+\`\`\`
 
 ## Theming
 
